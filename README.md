@@ -17,3 +17,4 @@ This project marks my renewed commitment to growing my web development skills, f
 Consistency beats perfection.  
 This simple project symbolizes a bigger journey — proof that every small step matters and that progress (no matter how slow at times) *is still progress*.
 
+https://roadmap.sh/projects/single-page-cv
